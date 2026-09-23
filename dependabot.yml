@@ -1,0 +1,30 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/docusaurus"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    open-pull-requests-limit: 10
+
+    # Bundle minor/patch bumps into fewer, easier-to-review PRs instead of
+    # one PR per package. Major version bumps are left ungrouped so each
+    # one gets its own PR and your full attention.
+    groups:
+      docusaurus-packages:
+        patterns:
+          - "@docusaurus/*"
+      minor-and-patch:
+        update-types:
+          - "minor"
+          - "patch"
+
+    # Prevent a repeat of the React 19 situation: don't let Dependabot
+    # propose major-version bumps for React until Docusaurus's own peer
+    # dependencies officially support them. Remove these two entries
+    # once you've confirmed your Docusaurus version supports React 19.
+    ignore:
+      - dependency-name: "react"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "react-dom"
+        update-types: ["version-update:semver-major"]
