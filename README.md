@@ -20,7 +20,7 @@ I’m a Technical Writer with 9+ years of experience in software, cloud services
 
 | I specialize in                                 |  |
 |-------------------------------------------------|--|
-| **Developer documentation**                     | APIs, SDKs, integration & implementation guides |
+| **Developer documentation**                     | APIs, SDKs, integration, and implementation guides |
 | **Content&nbsp;design&nbsp;and&nbsp;strategy**  | Information architecture, docs-as-code workflows, structured authoring (DITA, DocBook, AEM, Markdown, XML) |
 | **AI/ML/LLM&nbsp;documentation**                | Generative AI solutions, machine learning lifecycle docs, model deployment, and decision guides for emerging technologies |
 | **Multimedia&nbsp;and&nbsp;video&nbsp;content** | Tutorial videos, getting started walkthroughs, decision-support demos, and knowledge base training |
