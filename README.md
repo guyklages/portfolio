@@ -26,4 +26,4 @@ I’m a Technical Writer with 9+ years of experience in software, cloud services
 | **Multimedia&nbsp;and&nbsp;video&nbsp;content** | Tutorial videos, getting started walkthroughs, decision-support demos, and knowledge base training |
 | **Technical storytelling**                      | Research studies, conceptual overviews, and business-to-technical translation |
 
-I’ve written for Meta, Microsoft, Google, Apple, and other enterprise technology companies, and I love creating documentation that makes complex systems approachable.
+I’ve written for Meta, Microsoft, Apple, Netflix, Google, and other enterprise technology companies, and I love creating documentation that makes complex systems approachable.
