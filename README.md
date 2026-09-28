@@ -10,7 +10,7 @@ Welcome! This repository showcases a selection of my work as a Technical Writer,
 
 It demonstrates both my depth in cloud/software documentation and my range across audiences:
 
-— developers
+- developers
 - DBAs
 - PMs
 - and business stakeholders
